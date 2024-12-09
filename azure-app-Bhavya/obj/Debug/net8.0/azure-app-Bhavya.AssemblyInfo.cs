@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-Bhavya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95d81e3807ebd13168d0e1ebb48770a02b6ba1a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-Bhavya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-Bhavya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
