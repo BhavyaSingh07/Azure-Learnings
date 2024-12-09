@@ -1,0 +1,7 @@
+C:\azureLearnings\azure-app-Bhavya\azure-app-Bhavya\obj\Release\net8.0\PubTmp\Out\azure-app-Bhavya.exe
+C:\azureLearnings\azure-app-Bhavya\azure-app-Bhavya\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\azureLearnings\azure-app-Bhavya\azure-app-Bhavya\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\azureLearnings\azure-app-Bhavya\azure-app-Bhavya\obj\Release\net8.0\PubTmp\Out\azure-app-Bhavya.dll
+C:\azureLearnings\azure-app-Bhavya\azure-app-Bhavya\obj\Release\net8.0\PubTmp\Out\azure-app-Bhavya.deps.json
+C:\azureLearnings\azure-app-Bhavya\azure-app-Bhavya\obj\Release\net8.0\PubTmp\Out\azure-app-Bhavya.runtimeconfig.json
+C:\azureLearnings\azure-app-Bhavya\azure-app-Bhavya\obj\Release\net8.0\PubTmp\Out\azure-app-Bhavya.pdb
