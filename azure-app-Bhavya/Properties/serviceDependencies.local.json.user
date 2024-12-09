@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-12-09T08:59:28.483217Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2024-12-09T08:59:58.62323Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "az-course-rg-cli"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "31c5501b-8358-4679-89d6-4e7ade3658ec"
+    }
+  }
+}

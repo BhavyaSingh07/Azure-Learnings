@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("544c81c5-b356-4b31-b3c0-c19867434aeb")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-Bhavya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95d81e3807ebd13168d0e1ebb48770a02b6ba1a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a78085ca29ae6a07f4f397901b112a75e41067f")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-Bhavya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-Bhavya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
